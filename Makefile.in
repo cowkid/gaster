@@ -31,9 +31,6 @@ LIB_OBJS=blib.o gaster_main.o gaster_unpack.o gaster_asm.o
 # ??? replace with your targets
 all: gaster
 
-# ??? here I make the bindir, libdir and infodir directories; you
-# might not need all of these.  also, I assumed the names PROG and
-# libMYPROG.a for the program and library.
 install: all
 	$(top_srcdir)/mkinstalldirs $(bindir)
 	$(top_srcdir)/mkinstalldirs $(libdir)

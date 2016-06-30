@@ -1,7 +1,7 @@
 #include "blib.h"
 #include "gms_types.h"
 
-/* This file is the disassembler for gm:s bytecode.
+/* This file is the disassembler for gm:s bytecode. */
 
 // We use a few different names (because it makes more sense)
 // Conv is really a type-cast instruction, so we use cast instead.

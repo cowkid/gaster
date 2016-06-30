@@ -1,8 +1,5 @@
-#                                               -*- Autoconf -*-
-# Process this file with autoconf to produce a configure script.
-
 AC_PREREQ([2.69])
-AC_INIT([libbinmod], [0.1], [chaos.kagami@gmail.com], [libbinmod], [http://github.com/chaoskagami/libbinmod])
+AC_INIT([gaster], [0.1], [chaos.kagami@gmail.com], [gaster], [http://github.com/chaoskagami/gaster])
 AC_CONFIG_SRCDIR([blib.h])
 AC_CONFIG_HEADERS([config.h])
 

@@ -1,0 +1,3 @@
+[submodule "libbinmod"]
+	path = libbinmod
+	url = https://github.com/chaoskagami/libbinmod
